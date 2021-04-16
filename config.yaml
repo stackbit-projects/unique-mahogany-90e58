@@ -1,7 +1,7 @@
 title: Stackbit Libris Theme
 baseURL: /
 params:
-  palette: violet
+  palette: blue
   header:
     title: Libris
     logo_img: images/logo.svg
