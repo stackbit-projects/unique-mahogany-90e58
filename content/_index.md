@@ -12,7 +12,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
-        icon_class: facebook
+        icon_class: github
   - section_id: features
     type: section_grid
     col_number: three
