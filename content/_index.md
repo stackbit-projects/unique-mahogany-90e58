@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Get Started
         url: /docs
-        style: icon
+        style: primary
   - section_id: features
     type: section_grid
     col_number: three
