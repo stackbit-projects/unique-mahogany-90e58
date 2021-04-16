@@ -14,6 +14,7 @@ sections:
         style: primary
         icon_class: dev
         new_window: false
+        no_follow: true
   - section_id: features
     type: section_grid
     col_number: three
